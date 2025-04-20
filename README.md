@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Pulkit Gaur</h1>
 <h3>About Me</h3>
-<p>Driven by a deep enthusiasm for Computer Science and Engineering, I thrive on creating impactful applications that address real-world problems. As an Associate Software Engineer, I bring hands-on expertise in Full Stack Development, backed by a strong foundation in Object-Oriented Programming and Design (OOPD). My skill set empowers me to seamlessly bridge front-end and back-end technologies, delivering solutions that are not only robust and scalable but also thoughtfully engineered for performance and maintainability.</p>
+<p>Driven by a deep enthusiasm for Computer Science and Engineering, I thrive on creating impactful applications that address real-world problems. As an Associate Software Engineer, I bring hands-on expertise in Full Stack Development, backed by a strong foundation in Object-Oriented Programming (OOPS). My skill set empowers me to seamlessly bridge front-end and back-end technologies, delivering solutions that are not only robust and scalable but also thoughtfully engineered for performance and maintainability.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulkitgaur07&label=Profile%20views&color=0e75b6&style=flat" alt="pulkitgaur07" /> </p>
 
@@ -12,22 +12,102 @@
 
 - 📫 How to reach me **pulkitgaur9450@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+## 🛠️ Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pulkitgaur07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pulkitgaur07" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/stranger_99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="stranger_99" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pulkitgaur9450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pulkitgaur9450" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pulkitgaur07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pulkitgaur07" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/stranger_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="stranger_99" height="30" width="40" /></a>
+### Programming Languages  
+<p><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Developer Tools 
+<p>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
+### Frameworks / Libraries
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### Databases  
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+### Software & Devops
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+## 📚 B.Tech Coursework
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-004680?style=for-the-badge&logo=algorithm&logoColor=white" alt="Data Structures & Algorithms" />
+<img src="https://img.shields.io/badge/Operating_Systems-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Operating Systems" />
+<img src="https://img.shields.io/badge/Computer_Networks-2962FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Networks" />
+<img src="https://img.shields.io/badge/Database_Management_Systems-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Management Systems" />
+<img src="https://img.shields.io/badge/Compiler_Design-FBCA04?style=for-the-badge&logo=codeforces&logoColor=white" alt="Compiler Design" />
+<img src="https://img.shields.io/badge/Web_Development-F16529?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development" />
+
+## Achievements and Extracurriculars
+<p>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+Highest Rating: 1758 ⭐️ with a streak of 750+ days and solved 950+ questions.
+</p>
+<p>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /> Solved 800+ problems with a streak of 600+ days.
+</p>
+<p>
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /> 6 ⭐️ in Problem Solving and 5 ⭐️ in C++.
+</p>
+<p><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /> 3-star ⭐️⭐️⭐️, Highest Rating: 1608 </p>
+
+## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pulkitgaur07&show_icons=true&locale=en&layout=compact" alt="pulkitgaur07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pulkitgaur07&show_icons=true&locale=en" alt="pulkitgaur07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pulkitgaur07&" alt="pulkitgaur07" /></p>
+
+
+## 🎓 Education
+
+#### B.Tech in Computer Science and Engineering  
+- Institute of Engineering and Rural Technology, Prayagraj
+-  Nov 2020 - June 2024 
+-  CGPA: 7.95
+
+#### Class XII  
+- Sant Pathik Vidyalaya Pashupati Nagar Bahraich
+- Percentage: 74.4%
+
+#### Class X  
+ - Sant Pathik Vidyalaya Pashupati Nagar Bahraich
+ - CGPA: 10
+
+## Let's Connect!
+Feel free to reach out via email or connect with me on 
+<a href="mailto:pulkigaur9450@gmail.com" target="_blank">Email</a> 
+or 
+<a href="https://www.linkedin.com/in/pulkitgaur07/" target="_blank">LinkedIn</a>. 
+Check out my coding profiles on 
+<a href="https://leetcode.com/u/pulkitgaur07/" target="_blank">LeetCode</a>, 
+<a href="https://www.geeksforgeeks.org/user/stranger_99/" target="_blank">GeeksforGeeks</a>, 
+<a href="https://www.hackerrank.com/profile/Pulkitgaur9450" target="_blank">HackerRank</a>, 
+<a href="https://www.codechef.com/users/stranger_99" target="_blank">CodeChef</a>, 
+and 
+<a href="https://www.naukri.com/code360/profile/pulkitgaur" target="_blank">Coding Ninjas</a>.
