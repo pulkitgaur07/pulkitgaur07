@@ -4,14 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulkitgaur07&label=Profile%20views&color=0e75b6&style=flat" alt="pulkitgaur07" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring Boot**
-
-- 👨‍💻 All of my projects are available at [https://pulkitportfolio.onrender.com/](https://pulkitportfolio.onrender.com/)
-
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **pulkitgaur9450@gmail.com**
-
+- 📍 Lucknow, India  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="20" height="20"/> [pulkitgaur9450@gmail.com](mailto:pulkitgaur9450@gmail.com)  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="20" height="20"/> [LinkedIn](https://www.linkedin.com/in/pulkitgaur07/)  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" alt="LeetCode" width="20" height="20"/> [LeetCode](https://leetcode.com/u/pulkitgaur07/)  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" alt="GeeksforGeeks" width="20" height="20"/> [GeeksforGeeks](https://www.geeksforgeeks.org/user/stranger_99/)  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" alt="HackerRank" width="20" height="20"/> [HackerRank](https://www.hackerrank.com/profile/Pulkitgaur9450)  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" alt="CodeChef" width="20" height="20"/> [CodeChef](https://www.codechef.com/users/stranger_99)  
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codingninjas.svg" alt="Coding Ninjas" width="20" height="20"/> [Coding Ninjas](https://www.naukri.com/code360/profile/pulkitgaur)
+  
 ## 🛠️ Technical Skills
 
 ### Programming Languages  
