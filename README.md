@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pulkit Gaur</h1>
+<h1>Hi 👋, I'm Pulkit Gaur</h1>
+<h3>About Me</h3>
 <p>Driven by a deep enthusiasm for Computer Science and Engineering, I thrive on creating impactful applications that address real-world problems. As an Associate Software Engineer, I bring hands-on expertise in Full Stack Development, backed by a strong foundation in Object-Oriented Programming and Design (OOPD). My skill set empowers me to seamlessly bridge front-end and back-end technologies, delivering solutions that are not only robust and scalable but also thoughtfully engineered for performance and maintainability.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pulkitgaur07&label=Profile%20views&color=0e75b6&style=flat" alt="pulkitgaur07" /> </p>
