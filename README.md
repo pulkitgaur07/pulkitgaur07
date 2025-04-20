@@ -60,7 +60,6 @@
 <img src="https://img.shields.io/badge/Operating_Systems-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Operating Systems" />
 <img src="https://img.shields.io/badge/Computer_Networks-2962FF?style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Networks" />
 <img src="https://img.shields.io/badge/Database_Management_Systems-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Management Systems" />
-<img src="https://img.shields.io/badge/Compiler_Design-FBCA04?style=for-the-badge&logo=codeforces&logoColor=white" alt="Compiler Design" />
 <img src="https://img.shields.io/badge/Web_Development-F16529?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development" />
 
 ## Achievements and Extracurriculars
@@ -86,18 +85,24 @@ Highest Rating: 1758 ⭐️ with a streak of 750+ days and solved 950+ questions
 
 ## 🎓 Education
 
-#### B.Tech in Computer Science and Engineering  
-- Institute of Engineering and Rural Technology, Prayagraj
--  Nov 2020 - June 2024 
--  CGPA: 7.95
+- #### B.Tech in Computer Science and Engineering
+  <div>
+   Institute of Engineering and Rural Technology, Prayagraj </br>
+   Nov 2020 - June 2024 </br>
+   CGPA : 7.95
+  </div>
 
-#### Class XII  
-- Sant Pathik Vidyalaya Pashupati Nagar Bahraich
-- Percentage: 74.4%
+- #### Class XII
+  <div>
+   Sant Pathik Vidyalaya Pashupati Nagar Bahraich </br>
+   Percentage : 74.4%
+  </div> 
 
-#### Class X  
- - Sant Pathik Vidyalaya Pashupati Nagar Bahraich
- - CGPA: 10
+- #### Class X
+  <div>
+   Sant Pathik Vidyalaya Pashupati Nagar Bahraich </br>
+   CGPA : 10
+  </div> 
 
 ## Let's Connect!
 Feel free to reach out via email or connect with me on 
