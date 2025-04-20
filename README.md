@@ -66,10 +66,10 @@
 ## Achievements and Extracurriculars
 <p>
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-Highest Rating: 1758 ⭐️ with a streak of 750+ days and solved 950+ questions.
+Highest Rating: 1758 ⭐️ and solved 950+ questions with a streak of 750+ days.
 </p>
 <p>
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /> Solved 800+ problems with a streak of 600+ days.
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /> Highest Rating : 1722 ⭐️ and solved 800+ problems with a streak of 600+ days.
 </p>
 <p>
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /> 6 ⭐️ in Problem Solving and 5 ⭐️ in C++.
